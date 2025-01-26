@@ -1,0 +1,15 @@
+[project]
+name = "zegr"
+description = "comfyui share models to oss conveniently."
+version = "1.0.0"
+license = {file = "LICENSE"}
+dependencies = ["crcmod"]
+
+[project.urls]
+Repository = "https://github.com/Positliver/comfyui-zegr"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-zegr"
+Icon = ""
